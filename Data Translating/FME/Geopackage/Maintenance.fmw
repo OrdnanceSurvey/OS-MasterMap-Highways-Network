@@ -10,51 +10,51 @@
 #          --DestDataset_GEOPACKAGE "C:\Data\OSMasterMap\Highways\Data\test.gpkg"
 #    
 #    
-#!   SHOW_INFO_NODES="true"
-#!   DESCRIPTION=""
-#!   FME_GEOMETRY_HANDLING="Enhanced"
-#!   REDIRECT_TERMINATORS="NONE"
-#!   EXPLICIT_BOOKMARK_ORDER="false"
-#!   DESTINATION="NONE"
-#!   BEGIN_PYTHON=""
-#!   VIEW_POSITION="-1686.13 1319.46"
-#!   DOC_TOP_LEFT="-2670.03 -1189.01"
-#!   IGNORE_READER_FAILURE="No"
+#!   END_TCL=""
+#!   TERMINATE_REJECTED="NO"
+#!   DOC_EXTENTS="6611.04 1793.47"
+#!   FME_DOCUMENT_PRIORGUID="b63cc5a7-30cd-43af-bf99-3518e63412c4,c2d0443b-60cf-4684-909c-2dc8952f06fb,78a7f910-f199-4c4e-acee-98b19e000e04,3fab64f5-ad57-4473-9c6c-c8b8943beff7,41e6029a-c20a-42bf-99c7-3d27141669c6,ecfda4e4-a6cc-4f38-9937-81e71eb10232,09a8fd43-c51b-44c6-a5fc-94e9bdc6ddd7,0b690cf4-1e14-40bc-9139-2bcfb5a97618,8507aa42-36cf-461d-817a-aa542fe088c1,f243fcf2-cf78-4e62-89d2-7c7b8d28e520,7d920ff1-18df-43f7-9291-38e9c053fa54,c88ca2ac-c8ad-49d0-9f7e-d4bd3e0de48e,63e2a2b6-3715-4086-a535-57c17eb28b75,ffad7b19-2c8c-4130-83c6-8f2ddc1dc862,dbf152b2-cf1a-46e8-80d5-c43b318f3711,82a941d8-1751-49d5-8438-3e72aa450e64,0c5802df-e4b6-4f50-a13b-3cbe497fe76c,7fec6330-2475-4f1a-9037-dbb8b6f53b12,448c004b-680e-4f79-b68c-4f1a64fafeb7,475385e3-05ed-428a-8fba-8b605bf4c2af,ca7c6eaf-5eb7-4922-acb0-5df3caf42337,cf7617af-9a56-4c08-8414-4f11116a0562,c7728f42-0fa0-4671-8127-48301acfa88a,bd2a6aaf-ae35-43de-8f5e-d4f6efc8cecd,8161bf70-523b-4767-8860-7609ae1440e7,cd1e0d6b-2a9d-41f1-9f7f-65eb806fbae7,08ddad6e-6843-42d8-ba8c-829504318952,d81c5a36-5078-4789-a0a0-7a7054d4d9bb,339f1f7a-4ded-4fac-8516-005b754da8c1,ce9c6957-871a-4068-9a69-902e49ae75d2,25531871-225b-4acc-89d5-12e8f1c5f306,c282001e-4219-45b6-b10f-bbc73aa3492a,531a3060-33ad-4623-b923-1ae82346f808,336faa25-3835-46eb-adda-49c94c540231,4a7e480c-f963-45ac-a5cb-338438a99885,612d33b2-1d0a-4bc1-b715-322d02c5c714,194631ef-0709-409e-b970-de82c9592384,bb176481-fdda-4a73-a01d-56a4f7600cec,c71835de-e7b2-4d4d-aab3-caa2b4779127"
+#!   LOG_FILE=""
+#!   BEGIN_TCL=""
 #!   PASSWORD=""
-#!   TITLE=""
+#!   BEGIN_PYTHON=""
+#!   LAST_SAVE_DATE="2019-08-27T11:03:50"
+#!   IGNORE_READER_FAILURE="No"
+#!   FME_DOCUMENT_GUID="bd56c36a-aebd-4c49-885c-e8a7da1c346e"
 #!   MULTI_WRITER_DATASET_ORDER="BY_ID"
 #!   FME_REPROJECTION_ENGINE="FME"
-#!   FME_STROKE_MAX_DEVIATION="0"
-#!   DOC_EXTENTS="6611.04 1793.47"
-#!   LOG_FILE=""
-#!   FME_DOCUMENT_PRIORGUID="b63cc5a7-30cd-43af-bf99-3518e63412c4,c2d0443b-60cf-4684-909c-2dc8952f06fb,78a7f910-f199-4c4e-acee-98b19e000e04,3fab64f5-ad57-4473-9c6c-c8b8943beff7,41e6029a-c20a-42bf-99c7-3d27141669c6,ecfda4e4-a6cc-4f38-9937-81e71eb10232,09a8fd43-c51b-44c6-a5fc-94e9bdc6ddd7,0b690cf4-1e14-40bc-9139-2bcfb5a97618,8507aa42-36cf-461d-817a-aa542fe088c1,f243fcf2-cf78-4e62-89d2-7c7b8d28e520,7d920ff1-18df-43f7-9291-38e9c053fa54,c88ca2ac-c8ad-49d0-9f7e-d4bd3e0de48e,63e2a2b6-3715-4086-a535-57c17eb28b75,ffad7b19-2c8c-4130-83c6-8f2ddc1dc862,dbf152b2-cf1a-46e8-80d5-c43b318f3711,82a941d8-1751-49d5-8438-3e72aa450e64,0c5802df-e4b6-4f50-a13b-3cbe497fe76c,7fec6330-2475-4f1a-9037-dbb8b6f53b12,448c004b-680e-4f79-b68c-4f1a64fafeb7,475385e3-05ed-428a-8fba-8b605bf4c2af,ca7c6eaf-5eb7-4922-acb0-5df3caf42337,cf7617af-9a56-4c08-8414-4f11116a0562,c7728f42-0fa0-4671-8127-48301acfa88a,bd2a6aaf-ae35-43de-8f5e-d4f6efc8cecd,8161bf70-523b-4767-8860-7609ae1440e7,cd1e0d6b-2a9d-41f1-9f7f-65eb806fbae7,08ddad6e-6843-42d8-ba8c-829504318952,d81c5a36-5078-4789-a0a0-7a7054d4d9bb,339f1f7a-4ded-4fac-8516-005b754da8c1,ce9c6957-871a-4068-9a69-902e49ae75d2,25531871-225b-4acc-89d5-12e8f1c5f306,c282001e-4219-45b6-b10f-bbc73aa3492a,531a3060-33ad-4623-b923-1ae82346f808,336faa25-3835-46eb-adda-49c94c540231,4a7e480c-f963-45ac-a5cb-338438a99885,612d33b2-1d0a-4bc1-b715-322d02c5c714,194631ef-0709-409e-b970-de82c9592384,bb176481-fdda-4a73-a01d-56a4f7600cec"
-#!   BEGIN_TCL=""
-#!   SOURCE="NONE"
-#!   CATEGORY=""
-#!   HISTORY=""
-#!   USE_MARKDOWN=""
-#!   FME_DOCUMENT_GUID="c71835de-e7b2-4d4d-aab3-caa2b4779127"
-#!   MAX_LOG_FEATURES="200"
-#!   ZOOM_SCALE="90"
-#!   LAST_SAVE_BUILD="FME(R) 2017.0.0.1 (20170316 - Build 17271 - WIN64)"
-#!   FME_BUILD_NUM="17271"
-#!   ATTR_TYPE_ENCODING="SDF"
-#!   WARN_INVALID_XFORM_PARAM="Yes"
-#!   FME_SERVER_SERVICES=""
-#!   SOURCE_ROUTING_FILE=""
-#!   WORKSPACE_VERSION="1"
-#!   END_TCL=""
-#!   USAGE=""
 #!   MARKDOWN_USAGE=""
-#!   PYTHON_COMPATIBILITY="27"
-#!   SHOW_ANNOTATIONS="true"
-#!   TERMINATE_REJECTED="NO"
-#!   DESTINATION_ROUTING_FILE=""
-#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   SHOW_INFO_NODES="true"
+#!   CATEGORY=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
-#!   LAST_SAVE_DATE="2019-08-01T15:49:30"
-#!   END_PYTHON=""
 #!   MARKDOWN_DESCRIPTION=""
+#!   TITLE=""
+#!   DESTINATION_ROUTING_FILE=""
+#!   USE_MARKDOWN=""
+#!   REDIRECT_TERMINATORS="NONE"
+#!   SOURCE="NONE"
+#!   SHOW_ANNOTATIONS="true"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   SOURCE_ROUTING_FILE=""
+#!   VIEW_POSITION="-1686.13 1791.68"
+#!   USAGE=""
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   DOC_TOP_LEFT="-2670.03 -1189.01"
+#!   DESTINATION="NONE"
+#!   DESCRIPTION=""
+#!   ZOOM_SCALE="90"
+#!   WORKSPACE_VERSION="1"
+#!   FME_BUILD_NUM="17271"
+#!   HISTORY=""
+#!   PYTHON_COMPATIBILITY="27"
+#!   MAX_LOG_FEATURES="200"
+#!   END_PYTHON=""
+#!   LAST_SAVE_BUILD="FME(R) 2017.0.0.1 (20170316 - Build 17271 - WIN64)"
+#!   FME_SERVER_SERVICES=""
+#!   ATTR_TYPE_ENCODING="SDF"
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -70,7 +70,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color xml_char(50) multi_reader_keyword xml_char(50) fme_text_string xml_char(50) multi_reader_full_id xml_int32 multi_reader_id xml_int32 fme_basename xml_char(50) xml_ns_uri xml_char(254) fme_text_size xml_real64 fme_sweep_angle xml_real64 fme_geometry fme_char(50) gml_parent_id xml_char(254) gml_original_coordinate_system xml_char(64) fme_type xml_char(50) fme_color xml_char(50) fme_start_angle xml_real64 gml_id xml_char(254) fme_dataset xml_char(50) multi_reader_type xml_char(50) fme_rotation xml_real64 fme_feature_type xml_char(50) fme_primary_axis xml_real64 gml_parent_property xml_char(254) fme_secondary_axis xml_real64 xml_type xml_char(50)"
+#!   EXPOSABLE_ATTRS="multi_reader_type xml_char(50) fme_type xml_char(50) fme_rotation xml_real64 fme_text_string xml_char(50) fme_geometry fme_char(50) fme_color xml_char(50) fme_start_angle xml_real64 fme_feature_type xml_char(50) xml_type xml_char(50) fme_sweep_angle xml_real64 gml_id xml_char(254) multi_reader_keyword xml_char(50) fme_basename xml_char(50) fme_primary_axis xml_real64 fme_text_size xml_real64 fme_dataset xml_char(50) fme_secondary_axis xml_real64 gml_original_coordinate_system xml_char(64) multi_reader_full_id xml_int32 xml_ns_uri xml_char(254) multi_reader_id xml_int32 gml_parent_property xml_char(254) gml_parent_id xml_char(254) fme_fill_color xml_char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -79,13 +79,17 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILE_OR_URL"
 #!   GENERATE_FME_BUILD_NUM="16492"
-#!   MAX_FEATURES="10000"
-#!   FEATURE_TYPES="Maintenance"
-#!   COORDSYS="EPSG:27700"
-#!   MAX_FEATURES_PER_FEATURE_TYPE=""
 #!   MIN_FEATURES=""
+#!   COORDSYS="EPSG:27700"
 #!   START_FEATURE=""
+#!   MAX_FEATURES=""
+#!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   FEATURE_TYPES="Maintenance"
 #! >
+#! <METAFILE_PARAMETER
+#!   NAME="MIME_TYPE"
+#!   VALUE="application/xml"
+#! />
 #! <METAFILE_PARAMETER
 #!   NAME="NETWORK_PROXY"
 #!   VALUE="NO"
@@ -95,8 +99,12 @@
 #!   VALUE="gml file"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="MIME_TYPE"
-#!   VALUE="application/xml"
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="ALWAYS"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify a name for the GML file"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="ADVANCED_PARMS"
@@ -105,14 +113,6 @@
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the GML file(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="WRITER_DATASET_HINT"
-#!   VALUE="Specify a name for the GML file"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="NETWORK_AUTHENTICATION"
-#!   VALUE="ALWAYS"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -128,7 +128,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="geopackage_type {FME_GEN_GEOMETRY} fme_feature_operation INSERT fme_table_handling CREATE_IF_MISSING fme_selection_method MATCH_ID fme_match_id_attribute &quot;geopackage_fid&quot; geopackage_geometry_column &quot;&quot; geopackage_primary_index_column &quot;&quot; geopackage_create_spatial_index YES"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_secondary_axis double fme_text_size double fme_fill_color text(50) fme_geometry fme_char(50) fme_rotation double fme_primary_axis double fme_dataset text(50) fme_type text(50) fme_text_string text(50) fme_feature_type text(50) fme_color text(50) fme_basename text(50) fme_start_angle double geopackage_type text(255) fme_sweep_angle double"
+#!   EXPOSABLE_ATTRS="geopackage_type text(255) fme_geometry fme_char(50) fme_basename text(50) fme_start_angle double fme_secondary_axis double fme_primary_axis double fme_text_string text(50) fme_sweep_angle double fme_rotation double fme_feature_type text(50) fme_type text(50) fme_color text(50) fme_text_size double fme_fill_color text(50) fme_dataset text(50)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP fme_configuration_group fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group Table&quot; &quot;&quot; &quot;GUI OPTIONAL NAMEDGROUP fme_configuration_common_group fme_feature_operation%fme_table_handling%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group General&quot; &quot;&quot; &quot;GUI ACTIVECHOICE_LOOKUP fme_feature_operation Insert,INSERT,fme_update_geometry,fme_selection_group%Update,UPDATE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN%Delete,DELETE,++fme_table_handling+USE_EXISTING,fme_update_geometry,++fme_selection_group+FME_DISCLOSURE_OPEN,fme_spatial_group,fme_advanced_group,oracle_sequenced_cols%&lt;at&gt;Value&lt;openparen&gt;fme_db_operation&lt;closeparen&gt;,MULTIPLE,++fme_table_handling+USE_EXISTING,++fme_selection_group+FME_DISCLOSURE_OPEN Feature Operation&quot; INSERT &quot;GUI ACTIVECHOICE_LOOKUP fme_table_handling Use&lt;space&gt;Existing,USE_EXISTING,fme_table_creation_group%Create&lt;space&gt;If&lt;space&gt;Needed,CREATE_IF_MISSING%Drop&lt;space&gt;and&lt;space&gt;Create,DROP_CREATE Table Handling&quot; CREATE_IF_MISSING &quot;GUI OPTIONAL DISCLOSUREGROUP fme_selection_group fme_match_id_attribute Row Selection&quot; &quot;&quot; &quot;GUI WHOLE_LINE ATTR fme_match_id_attribute \&quot; \&quot; ID Attribute&quot; geopackage_fid &quot;GUI OPTIONAL DISCLOSUREGROUP fme_table_creation_group geopackage_geometry_column%geopackage_primary_index_column%geopackage_create_spatial_index Table Creation Parameters&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT geopackage_geometry_column Spatial Column&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT geopackage_primary_index_column Primary Index Column&quot; &quot;&quot; &quot;GUI CHOICE geopackage_create_spatial_index Yes%No Create Spatial Index&quot; Yes "
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS="\\&quot;{}()&apos;,@&amp;`~!#$%^*+-=|[]:;&lt;&gt;?./"
@@ -137,41 +137,41 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILE"
 #!   GENERATE_FME_BUILD_NUM="17271"
-#!   COORDSYS="EPSG:27700"
 #!   FANOUT_GROUP="NO"
+#!   COORDSYS="EPSG:27700"
 #!   FANOUT_EXPRESSION="&lt;Unused&gt;"
 #! >
 #! <METAFILE_PARAMETER
-#!   NAME="DATASET_NAME"
-#!   VALUE="GeoPackage file"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_NAME"
-#!   VALUE="Table"
-#! />
-#! <METAFILE_PARAMETER
 #!   NAME="ALLOW_DATASET_CONFLICT"
 #!   VALUE="YES"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="ADVANCED_PARMS"
-#!   VALUE="GEOPACKAGE_OUT_TRANSACTION_SIZE"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="READER_DATASET_HINT"
-#!   VALUE="Select the GeoPackage file(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="WRITER_DATASET_HINT"
-#!   VALUE="Specify a name for the GeoPackage file"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_DEFAULT_NAME"
 #!   VALUE="Table1"
 #! />
 #! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="GeoPackage file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify a name for the GeoPackage file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="GEOPACKAGE_OUT_TRANSACTION_SIZE"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_NAME"
+#!   VALUE="Table"
+#! />
+#! <METAFILE_PARAMETER
 #!   NAME="ATTRIBUTE_READING"
 #!   VALUE="DEFLINE"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_HINT"
+#!   VALUE="Select the GeoPackage file(s)"
 #! />
 #! </DATASET>
 #! </DATASETS>
@@ -1016,15 +1016,15 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationDescription" ATTR_TYPE="text(125)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationStart" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationEnd" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="No"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_geometry_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="fme_match_id_attribute" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_table_creation_group" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="No"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_primary_index_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_configuration_common_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_feature_operation" PARM_VALUE="INSERT"/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
@@ -1059,15 +1059,15 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationDescription" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationStart" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationEnd" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_geometry_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="fme_match_id_attribute" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_table_creation_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="Yes"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_primary_index_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_configuration_common_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="fme_feature_operation" PARM_VALUE="INSERT"/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
@@ -1102,15 +1102,15 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationDescription" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationStart" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationEnd" ATTR_TYPE="text(120)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_geometry_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="fme_match_id_attribute" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_table_creation_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="Yes"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_primary_index_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_configuration_common_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="fme_feature_operation" PARM_VALUE="INSERT"/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
@@ -1144,15 +1144,15 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="reasonForChange" ATTR_TYPE="text(32)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationDescription" ATTR_TYPE="text(130)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="locationStart" ATTR_TYPE="text(130)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_geometry_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="fme_match_id_attribute" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_table_creation_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="geopackage_create_spatial_index" PARM_VALUE="Yes"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_configuration_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="geopackage_primary_index_column" PARM_VALUE=""/>
-#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
 #!     <DEFLINE_PARM PARM_NAME="fme_configuration_common_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="fme_table_handling" PARM_VALUE="CREATE_IF_MISSING"/>
+#!     <DEFLINE_PARM PARM_NAME="fme_selection_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="fme_feature_operation" PARM_VALUE="INSERT"/>
 #! </FEATURE_TYPE>
 #! </FEATURE_TYPES>
@@ -1274,7 +1274,7 @@
 #!   BOUNDING_RECT="-1777.16 289.448 5718.17 876.009"
 #!   STICKY="true"
 #!   COLOUR="0.227451,0.654902,0.054902"
-#!   CONTENTS="4 41 43 19 52 37 33 23 20 40 48 44 46 9 51 27 36 21 30 31 17 45 32 22 25 18 10 "
+#!   CONTENTS="22 43 31 45 32 20 33 23 30 21 18 27 41 51 36 4 9 37 52 25 46 48 40 44 19 10 17 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -1517,12 +1517,12 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PREFIX" PARM_VALUE="net_ref_"/>
+#!     <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="0"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListIndexer"/>
 #!     <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="networkRef{}"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="0"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="9"
@@ -1764,9 +1764,9 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="inspireId.Identifier.localId,localId,,highwayAuthority.ResponsibleAuthority.authorityName,highwayAuthorityName,,maintenanceAuthority.ResponsibleAuthority.authorityName,maintenanceAuthorityName,,maintenanceAuthority.ResponsibleAuthority.identifier,maintenanceAuthorityID,,highwayAuthority.ResponsibleAuthority.identifier,highwayAuthorityID,,inspireId.Identifier.versionId,versionID,,gml_id,ID,,networkRef&lt;opencurly&gt;0&lt;closecurly&gt;.NetworkReference.element.xlink_href,referenceToStreetUSRN,"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_LIST_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="inspireId.Identifier.localId,localId,,highwayAuthority.ResponsibleAuthority.authorityName,highwayAuthorityName,,maintenanceAuthority.ResponsibleAuthority.authorityName,maintenanceAuthorityName,,maintenanceAuthority.ResponsibleAuthority.identifier,maintenanceAuthorityID,,highwayAuthority.ResponsibleAuthority.identifier,highwayAuthorityID,,inspireId.Identifier.versionId,versionID,,gml_id,ID,,networkRef&lt;opencurly&gt;0&lt;closecurly&gt;.NetworkReference.element.xlink_href,referenceToStreetUSRN,"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_3"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -2009,13 +2009,13 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="SRCFMT" PARM_VALUE="%Y&quot;-&quot;%m&quot;-&quot;%d&quot;T&quot;%T"/>
-#!     <XFORM_PARM PARM_NAME="FMT" PARM_VALUE="FME Date (%Y%m%d)"/>
-#!     <XFORM_PARM PARM_NAME="DATE_ATTR" PARM_VALUE="beginLifespanVersion,endLifespanVersion,validFrom,validTo"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="DateFormatter"/>
-#!     <XFORM_PARM PARM_NAME="INVALID_DATE_VALUE" PARM_VALUE="FME_NULL_VALUE"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DATE_ATTR" PARM_VALUE="beginLifespanVersion,endLifespanVersion,validFrom,validTo"/>
+#!     <XFORM_PARM PARM_NAME="SRCFMT" PARM_VALUE="%Y&quot;-&quot;%m&quot;-&quot;%d&quot;T&quot;%T"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="INVALID_DATE_VALUE" PARM_VALUE="FME_NULL_VALUE"/>
+#!     <XFORM_PARM PARM_NAME="FMT" PARM_VALUE="FME Date (%Y%m%d)"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="DateFormatter"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="32"
@@ -2256,9 +2256,9 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="net_ref_NetworkReferenceLocation.element.xlink_href,referenceToStreetUSRN,,net_ref_NetworkReferenceLocation.locationDescription,locationDescription,,net_ref_NetworkReferenceLocation.locationStart,locationStart,,net_ref_NetworkReferenceLocation.locationEnd,locationEnd,"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_LIST_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="net_ref_NetworkReferenceLocation.element.xlink_href,referenceToStreetUSRN,,net_ref_NetworkReferenceLocation.locationDescription,locationDescription,,net_ref_NetworkReferenceLocation.locationStart,locationStart,,net_ref_NetworkReferenceLocation.locationEnd,locationEnd,"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -2959,9 +2959,9 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TestFilter"/>
 #!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="BOOL_OP&lt;comma&gt;OR&lt;comma&gt;COMPOSITE_TEST&lt;comma&gt;&lt;lt&gt;Unused&lt;gt&gt;&lt;comma&gt;TEST_CLAUSE&lt;comma&gt;&lt;quote&gt;TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;partialReference&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;false&lt;quote&gt;,False,BOOL_OP&lt;comma&gt;OR&lt;comma&gt;COMPOSITE_TEST&lt;comma&gt;&lt;lt&gt;Unused&lt;gt&gt;&lt;comma&gt;TEST_CLAUSE&lt;comma&gt;&lt;quote&gt;TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;partialReference&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;true&lt;quote&gt;,True"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TestFilter"/>
+#!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="18"
@@ -3109,12 +3109,12 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="locationStart" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="locationEnd" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NodeReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -3202,18 +3202,18 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
+#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="referenceToStreetUSRN"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer"/>
-#!     <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="referenceToStreetUSRN"/>
+#!     <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
+#!     <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer"/>
 #!     <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="#"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -3362,12 +3362,12 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="locationStart" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="locationEnd" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NodeReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -3455,9 +3455,9 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="LINE"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -3593,12 +3593,12 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.owns" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="locationStart" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="locationEnd" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NodeReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -3686,9 +3686,9 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="AREA"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="2" />
@@ -3824,12 +3824,12 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.owns" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="locationStart" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="locationEnd" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NodeReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="2" />
@@ -3917,9 +3917,9 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <OUTPUT_FEAT NAME="&lt;UNFILTERED&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="3"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="3" />
@@ -4055,12 +4055,12 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.owns" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="locationStart" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="locationEnd" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NodeReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="3" />
@@ -4148,15 +4148,15 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <XFORM_PARM PARM_NAME="INSTANTIATE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="BREAK_AGG" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_PORT_NAMES" PARM_VALUE="Point Line Area"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryFilter"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BREAK_AGG" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="INSTANTIATE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryFilter"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_PORT_NAMES" PARM_VALUE="Point Line Area"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="41"
@@ -4398,9 +4398,9 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="net_ref_NetworkReference.element.xlink_href,referencetostreetusrn,,net_ref_NetworkReferenceLocation.locationDescription,locationdescription,,net_ref_NetworkReferenceLocation.locationStart,locationStart,,net_ref_NetworkReferenceLocation.locationEnd,locationEnd,"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_LIST_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="net_ref_NetworkReference.element.xlink_href,referencetostreetusrn,,net_ref_NetworkReferenceLocation.locationDescription,locationdescription,,net_ref_NetworkReferenceLocation.locationStart,locationStart,,net_ref_NetworkReferenceLocation.locationEnd,locationEnd,"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -4549,12 +4549,12 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.nilReason" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.gml_remoteSchema" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="locationStart" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="locationEnd" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_NodeReference.element.owns" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -4642,11 +4642,11 @@
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.offset.xsi_nil" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.fromPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="net_ref_LinearReference.toPositionGeometry" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="referenceToStreetUSRN" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReference.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="locationDescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryRefiner"/>
+#!     <XFORM_ATTR ATTR_NAME="referencetostreetusrn" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="net_ref_NetworkReferenceLocation.element.xlink_href" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="locationdescription" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryRefiner"/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -5088,7 +5088,6 @@ GML_1_READER_META_ATTRIBUTES fme_feature_type
 # -------------------------------------------------------------------------
 
 GML_1_COORDINATE_SYSTEM EPSG:27700
-GML_1_MAX_FEATURES 10000
 GML_1_FEATURE_TYPES Maintenance
 GEOPACKAGE_1_COORDINATE_SYSTEM EPSG:27700
 MULTI_READER_CONTINUE_ON_READER_FAILURE No
@@ -5143,8 +5142,8 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRenamer_2    INPUT  FEATURE_TY
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc StringReplacer_c78843aa_17d3_4672_b0ac_37c22b6d40eb5_replacer { findText replaceText invalidValue} {     set attrs [split \"referenceToStreetUSRN\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE AttributeRenamer_OUTPUT    INPUT  FEATURE_TYPE AttributeRenamer_2_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_c78843aa_17d3_4672_b0ac_37c22b6d40eb5_replacer {#} {} {_FME_NO_OP_}")
+Tcl2 proc StringReplacer_51bd4525_5bf4_4cfc_aaa3_baeae388df210_replacer { findText replaceText invalidValue} {     set attrs [split \"referenceToStreetUSRN\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE AttributeRenamer_OUTPUT    INPUT  FEATURE_TYPE AttributeRenamer_2_OUTPUT    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_51bd4525_5bf4_4cfc_aaa3_baeae388df210_replacer {#} {} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 MACRO OUTPUT_POINT_FTYPE not_selected
@@ -5164,8 +5163,8 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME GeometryFilter_InputPassThrough    INPU
 FACTORY_DEF $(INSTANCE_FILTERING) TestFactory    FACTORY_NAME GeometryFilter_InstanceTest    INPUT FEATURE_TYPE GeometryFilter___Input___    TEST @Geometry(IS_GEOMETRY_INSTANCE) == 1    OUTPUT PASSED FEATURE_TYPE $(OUTPUT_INSTANCE_FTYPE)    OUTPUT FAILED FEATURE_TYPE GeometryFilter___Input___
 FACTORY_DEF $(COLLECTION_HANDLING) TestFactory    FACTORY_NAME GeometryFilter_CollectionTest    INPUT FEATURE_TYPE GeometryFilter___Input___    TEST &fme_type == "fme_collection"    OUTPUT FAILED FEATURE_TYPE GeometryFilter___Not_Collection___    OUTPUT PASSED FEATURE_TYPE GeometryFilter___Collection___
 FACTORY_DEF $(COLLECTION_HANDLING) DeaggregateFactory    FACTORY_NAME GeometryFilter_Deagg    INPUT FEATURE_TYPE GeometryFilter___Collection___    HOMOGENIZE_COLLECTIONS YES    RECURSIVE YES    SET_FME_TYPE YES    INSTANTIATE_GEOMETRY_INSTANCES_NEW <Unused>    OUTPUT POINT FEATURE_TYPE GeometryFilter___HomogeneousAggregate___    OUTPUT LINE FEATURE_TYPE GeometryFilter___HomogeneousAggregate___    OUTPUT POLYGON FEATURE_TYPE GeometryFilter___HomogeneousAggregate___    OUTPUT DONUT FEATURE_TYPE GeometryFilter___HomogeneousAggregate___    OUTPUT AGGREGATE FEATURE_TYPE GeometryFilter___HomogeneousAggregate___
-FACTORY_DEF * TeeFactory    FACTORY_NAME GeometryFilter_RouterPrepper    INPUT FEATURE_TYPE GeometryFilter___HomogeneousAggregate___    INPUT FEATURE_TYPE GeometryFilter___Not_Collection___    INPUT FEATURE_TYPE GeometryFilter___Input___    OUTPUT FEATURE_TYPE GeometryFilter___Prepped___        GeometryFilter_36fb343c_6d7e_4816_8123_9daa34c6e1745_targetFeatureType @Lookup(GeometryFilter_RouterTable,&fme_type)
-FACTORY_DEF * TestFactory    FACTORY_NAME GeometryFilter_Router    INPUT FEATURE_TYPE GeometryFilter___Prepped___    TEST @Value(GeometryFilter_36fb343c_6d7e_4816_8123_9daa34c6e1745_targetFeatureType) != "not_selected"    OUTPUT PASSED FEATURE_TYPE * @FeatureType(@Value(GeometryFilter_36fb343c_6d7e_4816_8123_9daa34c6e1745_targetFeatureType))                                 @RemoveAttributes(GeometryFilter_36fb343c_6d7e_4816_8123_9daa34c6e1745_targetFeatureType)    OUTPUT FAILED FEATURE_TYPE GeometryFilter_<UNFILTERED>        @RemoveAttributes(GeometryFilter_36fb343c_6d7e_4816_8123_9daa34c6e1745_targetFeatureType)
+FACTORY_DEF * TeeFactory    FACTORY_NAME GeometryFilter_RouterPrepper    INPUT FEATURE_TYPE GeometryFilter___HomogeneousAggregate___    INPUT FEATURE_TYPE GeometryFilter___Not_Collection___    INPUT FEATURE_TYPE GeometryFilter___Input___    OUTPUT FEATURE_TYPE GeometryFilter___Prepped___        GeometryFilter_41aef6e5_e632_44b7_b429_f568e37d2bef0_targetFeatureType @Lookup(GeometryFilter_RouterTable,&fme_type)
+FACTORY_DEF * TestFactory    FACTORY_NAME GeometryFilter_Router    INPUT FEATURE_TYPE GeometryFilter___Prepped___    TEST @Value(GeometryFilter_41aef6e5_e632_44b7_b429_f568e37d2bef0_targetFeatureType) != "not_selected"    OUTPUT PASSED FEATURE_TYPE * @FeatureType(@Value(GeometryFilter_41aef6e5_e632_44b7_b429_f568e37d2bef0_targetFeatureType))                                 @RemoveAttributes(GeometryFilter_41aef6e5_e632_44b7_b429_f568e37d2bef0_targetFeatureType)    OUTPUT FAILED FEATURE_TYPE GeometryFilter_<UNFILTERED>        @RemoveAttributes(GeometryFilter_41aef6e5_e632_44b7_b429_f568e37d2bef0_targetFeatureType)
 
 # -------------------------------------------------------------------------
 
@@ -5173,16 +5172,16 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME GeometryRefiner    INPUT  FEATURE_TYPE 
 
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC GeometryRefiner_OUTPUT TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_point<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY    ROUTE FME_GENERIC GeometryFilter_AREA TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_area<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY    ROUTE FME_GENERIC GeometryFilter_LINE TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_line<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY    ROUTE FME_GENERIC GeometryFilter_<UNFILTERED> TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_noGeom<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC GeometryFilter_<UNFILTERED> TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_noGeom<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY    ROUTE FME_GENERIC GeometryFilter_AREA TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_area<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY    ROUTE FME_GENERIC GeometryFilter_LINE TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_line<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY    ROUTE FME_GENERIC GeometryRefiner_OUTPUT TO GEOPACKAGE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Maintenance_point<closeparen> COORDINATE_SYSTEM EPSG:27700 GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
 
 # -------------------------------------------------------------------------
-GEOPACKAGE_1_DEF Maintenance_point   geopackage_type              All   fme_feature_operation        INSERT   fme_table_handling           CREATE_IF_MISSING   fme_selection_method         MATCH_ID   geopackage_geometry_column   ""   geopackage_primary_index_column ""   geopackage_create_spatial_index No   ID                           text(20)   localId                      text(37)   beginLifespanVersion         datetime   validFrom                    datetime   maintenanceResponsibility    text(120)   partialReference             text(20)   highwayAuthorityName         text(120)   highwayAuthorityID           mediumint   maintenanceAuthorityName     text(120)   maintenanceAuthorityID       mediumint   referenceToStreetUSRN        text(20)   reasonForChange              text(32)   locationDescription          text(125)   locationStart                text(120)   locationEnd                  text(120)
+GEOPACKAGE_1_DEF Maintenance_noGeom   geopackage_type              All   fme_feature_operation        INSERT   fme_table_handling           CREATE_IF_MISSING   fme_selection_method         MATCH_ID   geopackage_geometry_column   ""   geopackage_primary_index_column ""   geopackage_create_spatial_index Yes   ID                           text(20)   localId                      text(37)   beginLifespanVersion         datetime   validFrom                    datetime   maintenanceResponsibility    text(120)   partialReference             text(20)   highwayAuthorityName         text(120)   highwayAuthorityID           mediumint   maintenanceAuthorityName     text(120)   maintenanceAuthorityID       mediumint   referenceToStreetUSRN        text(20)   reasonForChange              text(32)   locationDescription          text(130)   locationStart                text(130)
 # -------------------------------------------------------------------------
 GEOPACKAGE_1_DEF Maintenance_area   geopackage_type              All   fme_feature_operation        INSERT   fme_table_handling           CREATE_IF_MISSING   fme_selection_method         MATCH_ID   geopackage_geometry_column   ""   geopackage_primary_index_column ""   geopackage_create_spatial_index Yes   ID                           text(20)   localId                      text(37)   beginLifespanVersion         datetime   validFrom                    datetime   maintenanceResponsibility    text(120)   partialReference             text(20)   highwayAuthorityName         text(120)   highwayAuthorityID           mediumint   maintenanceAuthorityName     text(120)   maintenanceAuthorityID       mediumint   referenceToStreetUSRN        text(20)   reasonForChange              text(32)   locationDescription          text(120)   locationStart                text(120)   locationEnd                  text(120)
 # -------------------------------------------------------------------------
 GEOPACKAGE_1_DEF Maintenance_line   geopackage_type              All   fme_feature_operation        INSERT   fme_table_handling           CREATE_IF_MISSING   fme_selection_method         MATCH_ID   geopackage_geometry_column   ""   geopackage_primary_index_column ""   geopackage_create_spatial_index Yes   ID                           text(20)   localId                      text(37)   beginLifespanVersion         datetime   validFrom                    datetime   maintenanceResponsibility    text(120)   partialReference             text(20)   highwayAuthorityName         text(120)   highwayAuthorityID           mediumint   maintenanceAuthorityName     text(120)   maintenanceAuthorityID       mediumint   referenceToStreetUSRN        text(20)   reasonForChange              text(32)   locationDescription          text(120)   locationStart                text(120)   locationEnd                  text(120)
 # -------------------------------------------------------------------------
-GEOPACKAGE_1_DEF Maintenance_noGeom   geopackage_type              All   fme_feature_operation        INSERT   fme_table_handling           CREATE_IF_MISSING   fme_selection_method         MATCH_ID   geopackage_geometry_column   ""   geopackage_primary_index_column ""   geopackage_create_spatial_index Yes   ID                           text(20)   localId                      text(37)   beginLifespanVersion         datetime   validFrom                    datetime   maintenanceResponsibility    text(120)   partialReference             text(20)   highwayAuthorityName         text(120)   highwayAuthorityID           mediumint   maintenanceAuthorityName     text(120)   maintenanceAuthorityID       mediumint   referenceToStreetUSRN        text(20)   reasonForChange              text(32)   locationDescription          text(130)   locationStart                text(130)
+GEOPACKAGE_1_DEF Maintenance_point   geopackage_type              All   fme_feature_operation        INSERT   fme_table_handling           CREATE_IF_MISSING   fme_selection_method         MATCH_ID   geopackage_geometry_column   ""   geopackage_primary_index_column ""   geopackage_create_spatial_index No   ID                           text(20)   localId                      text(37)   beginLifespanVersion         datetime   validFrom                    datetime   maintenanceResponsibility    text(120)   partialReference             text(20)   highwayAuthorityName         text(120)   highwayAuthorityID           mediumint   maintenanceAuthorityName     text(120)   maintenanceAuthorityID       mediumint   referenceToStreetUSRN        text(20)   reasonForChange              text(32)   locationDescription          text(125)   locationStart                text(120)   locationEnd                  text(120)
