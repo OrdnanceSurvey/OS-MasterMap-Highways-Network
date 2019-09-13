@@ -21,10 +21,3 @@ Within each product repository you will find:
 
 </details>
 
-<br>
-
-<details>
-<summary>FAQ's</summary>
-<br>
-A list of technical FAQ's regarding OMM Highways Network
-</details>
